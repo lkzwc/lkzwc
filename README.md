@@ -1,11 +1,7 @@
+<img  src="https://img.shields.io/badge/Name-zhangwenchao-brightgreen"/>
+<img src="https://img.shields.io/badge/Work%20in%20years-4%20years-brightgreen"/>
+<img src="https://img.shields.io/badge/Base-xian-brightgreen"/>
 
-> Name: zhangwenchao
-
-> Work in years: 4 years
-
-> Postion: xian of china
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkzwc&show_icons=true&theme=tokyonight)
   
