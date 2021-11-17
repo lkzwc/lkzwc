@@ -1,5 +1,6 @@
 # lkzwc.github.io
 This is a decription of myself!
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=lkzwc&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lkzwc=anuraghazra&show_icons=true&theme=radical)
+
 
