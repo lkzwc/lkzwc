@@ -1,5 +1,3 @@
-<div align="center">
-  
 # lkzwc.github.io
   
 ## This is a decription of myself!
@@ -10,7 +8,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkzwc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 
 
