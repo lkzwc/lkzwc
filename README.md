@@ -7,9 +7,10 @@
 
 
 <div>
-  <img width="500vw"  style="transform:scaleY(1.2);height:235px" src="https://github-readme-stats.vercel.app/api?username=lkzwc&show_icons=true&theme=tokyonight"/>
-  <img width="500vw"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkzwc&layout=compact"/>
+  <img width="500vw" height="300px" src="https://github-readme-stats.vercel.app/api?username=lkzwc&show_icons=true&theme=highcontrast"/>
+  <img width="500vw"height="280px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkzwc&layout=compact"/>
 </div>
+
 语雀：https://www.yuque.com/lkzwc
 
 
