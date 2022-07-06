@@ -10,7 +10,7 @@
   <img width="400vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkzwc&layout=compact"/>
 </div>
 
-语雀：https://www.yuque.com/lkzwc
+博客：https://lkzwc.vercel.app
 
 
 
